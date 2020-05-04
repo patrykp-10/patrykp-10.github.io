@@ -24,8 +24,20 @@ ul {
   a {
     text-decoration: none;
     color: black;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 
+
+
+  container-tech {
+      height: 500px;
+      flex: 1 30%;
+      background-size: cover;
+    
+  }
+
+  container-tech img {
+      text-align: right;
+  }
   
+
