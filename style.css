@@ -1,9 +1,31 @@
 body{
-    background-color: black;
+    background-color: white;
+    margin: 0;
+
+}
+
+#Brand {
+    float: inline-start;
 }
 
 
-h1 {
-    color: white;
-    text-align: center;
-}
+ul {
+    display: flex;
+    justify-content: center;
+
+  }
+  ul li {
+    list-style: none;
+    margin: 2px 30px;
+  }
+  .menu {
+    display: none;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  }
+
+  
