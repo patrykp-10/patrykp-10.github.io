@@ -1,11 +1,19 @@
 body{
     background-color: white;
     margin: 0;
+    
 
 }
 
 #Brand {
-    float: inline-start;
+   justify-content: inline start;
+}
+
+nav {
+  background-color: black;
+  position: sticky;
+  top: 0;
+  border: 1px white;
 }
 
 
@@ -23,7 +31,7 @@ ul {
   }
   a {
     text-decoration: none;
-    color: black;
+    color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 
