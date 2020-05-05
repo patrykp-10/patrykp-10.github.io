@@ -2,6 +2,7 @@ body{
     background-color: white;
     margin: 0;
     
+    
 
 }
 
@@ -47,5 +48,42 @@ ul {
   container-tech img {
       text-align: right;
   }
-  
+
+}
+
+
+h3 {
+  justify-content: center;
+}
+
+header {
+  align-items: center;
+}
+
+
+.omnie {
+  text-align: center;
+  margin-top: 0px;
+}
+
+.container-logos {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.container-tech {
+  text-align: center;
+}
+
+
+.projects-div {
+  text-align: center;
+}
+
+
+
+
+
+
 
